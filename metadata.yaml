@@ -1,0 +1,34 @@
+_repo: From-Memory-s-Shrine-The-Reminscences-of-Carmen-Sylva_51674
+_version: 0.0.1
+alternative_title: Mein Penatenwinkel. English
+contributor:
+  translator:
+    agent_name: Hopkirk, Edith
+    gutenberg_agent_id: '46520'
+    url: http://www.gutenberg.org/2009/agents/46520
+creator:
+  author:
+    agent_name: Sylva, Carmen
+    aliases:
+    - Silva, Carmen
+    - Elisabeth, Queen, consort of Charles I, King of Romania
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '35434'
+    url: http://www.gutenberg.org/2009/agents/35434
+description: ''
+gutenberg_issued: '2016-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51674'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sylva, Carmen, 1843-1916'
+- !lcc 'DR'
+- !lcsh 'Queens -- Romania -- Biography'
+- GITenberg
+title: 'From Memory''s Shrine: The Reminscences of Carmen Sylva'
+url: http://www.gutenberg.org/ebooks/51674
